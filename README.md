@@ -27,6 +27,8 @@ You can use this [Colab](https://colab.research.google.com/drive/1ZRkbV_hUN-h2Rz
 
 ```bash
 
+  import generate_whisper_hypothesis as whisper 
+
   # To load your model
   model, _ = whisper.load_model("tiny") # you can also change the whisper model size here. Example model,_ = whisper.load_model("large")
 
