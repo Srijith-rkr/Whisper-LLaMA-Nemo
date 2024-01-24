@@ -13,7 +13,7 @@ Clone the repo
 
 ```bash
 git clone https://github.com/Srijith-rkr/Generate_Whisper_hypothesis.git
-cd Generate_Whisper_hypothesis 
+cd Whisper-LLaMA-Nemo
 ```
 And install its Python dependencies. 
 
