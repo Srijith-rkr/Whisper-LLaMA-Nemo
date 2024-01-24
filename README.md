@@ -1,5 +1,3 @@
-# Generate_Whisper_hypothesis
-
 ## Introduction 
 
 This repo is to generate multiple hypotheses for the task of generative error correction. We use a Whisper model in the backend with random temperature sampling to generate diverse candidates, as explained in the paper [Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition](https://aclanthology.org/2023.emnlp-main.618). You can also find the datasets used in the paper under the data directory. 
